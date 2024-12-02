@@ -13,7 +13,6 @@ from subprocess import Popen
 from pycaw.pycaw import AudioUtilities, ISimpleAudioVolume
 
 # GLOBAL VARIABLES
-SPOTIFY_PID = 4300
 SPOTIFY_PROCESS_NAME = 'Spotify.exe'
 DEFAULT_CONFIG_FILE = 'ads.cfg'
 LOGGING_CONFIG = {
